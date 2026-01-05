@@ -38,6 +38,3 @@ All ratings are recorded on a numerical scale.
 ## 📌 Conclusion
 This analysis demonstrates how structured feedback data can be effectively used to
 measure satisfaction levels and guide improvements in course design and delivery.
-
-## 📷 Visualizations
-Screenshots of key visualizations are included to support the analysis.
